@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Mandeep.data.unityweb",
+"asmCodeUrl": "Mandeep.asm.code.unityweb",
+"asmMemoryUrl": "Mandeep.asm.memory.unityweb",
+"asmFrameworkUrl": "Mandeep.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
